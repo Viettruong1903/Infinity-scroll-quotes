@@ -67,7 +67,6 @@ async function loadQuotes(page,limit) {
   }
 }
 
-
 document.addEventListener('scroll', () => {
   const {
     scrollTop,
