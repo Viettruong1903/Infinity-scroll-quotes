@@ -81,7 +81,7 @@ document.addEventListener('scroll', () => {
   }
 },{passive: true});
 
-// initialize
+// initializee
 loadQuotes(currentPage,limit);
 
 
